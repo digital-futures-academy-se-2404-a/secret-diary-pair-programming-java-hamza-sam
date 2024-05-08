@@ -1,2 +1,6 @@
-package com.secretdiary.application;public class Main {
+package com.secretdiary.application;
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
 }
